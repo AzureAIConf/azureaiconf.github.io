@@ -1,2 +1,2 @@
-# angularmix.github.io
+# azureaiconference.github.io
 Organzation Web Site
