@@ -8,4 +8,4 @@ The convergence of cloud and AI open entire new worlds of opportunities to achie
 
 Don't miss this unique opportunity to attend the first ever Microsoft Azure and AI conference. You will hear from Microsoft Executives on their exciting Azure and AI future. You will have the opportunity to train and network with the Microsoft engineers and Azure & AI industry experts. Registrants who sign up for the conference and workshops will take home some great hardware such as a Surface Go, XBOX and more. Please see the registration page for details. Space is limited so don't hesitate.
 
-[AzureAIConference-organization]: https://azureaiconf.github.io/
+[AzureAIConference-organization]: https://azureaiconference.github.io
