@@ -9,4 +9,6 @@ Nick Pinheiro is an experienced and award-winning software engineer, technologis
 
 Here are links to his presentation material:
 
-- [Modernize your App to be Delivered as a SaaS Service](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Microsoft%20Azure%20%26%20AI%20Conference%20-%20Nick%20Pinheiro%20-%20Modernize%20your%20App%20to%20be%20Delivered%20as%20a%20SaaS%20Service.pdf)
+- [Modernize your App to be Delivered as a SaaS Service](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Microsoft%20Azure%20%26%20AI%20Conference%20-%20Nick%20Pinheiro%20-%20Modernize%20your%20App%20to%20be%20Delivered%20as%20a%20SaaS%20Service.pdf
+)
+- [ Enable External Access to Your Custom Apps with Azure AD B2B](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Microsoft%20Azure%20%26%20AI%20Conference%20-%20Nick%20Pinheiro%20-%20Enable%20External%20Access%20to%20Your%20Custom%20Apps%20with%20Azure%20AD%20B2B.pdf)
