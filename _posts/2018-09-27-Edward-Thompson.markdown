@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Edward Thomson"
+title:  "Edward Thompson"
 date:   2018-09-27 11:48:33 +0400
 expertise: Program Manager, Microsoft
 ---
@@ -9,4 +9,4 @@ I'm a Program Manager for version control in Microsoft Visual Studio Team Servic
 
 Here are links to his presentation material:
 
-- [Azure DevOps](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/2018-12-06-Azure_and_AI_Conference-Introduction_to_Azure_DevOps.pdf)
+-[Azure DevOps](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/2018-12-06-Azure_and_AI_Conference-Introduction_to_Azure_DevOps.pdf)
