@@ -9,5 +9,3 @@ Joel Hulen (joel@solliance.net) has more than 23 years of experience in the IT f
 
 Here are links to his presentation material:
 
-- [Serverless + AI == awesome!](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Serverless%20%2B%20AI%20%3D%20Awesome%20-%20Joel%20Hulen.pptx)
-- [Building Highly Scalable Serverless Microservices](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Serverless%20on%20Azure%20for%20scale%20-%20Joel%20Hulen.pptx)
