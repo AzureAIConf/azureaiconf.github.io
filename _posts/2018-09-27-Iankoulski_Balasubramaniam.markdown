@@ -9,4 +9,3 @@ Both Dr. Blasubramaniam and Alex Iankoulski work in Data Science and Analytics a
 
 Here is a link to their presentation material:
 
-- [Depend on Docker – Get IT done with Docker on Azure](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/DependOnDocker-MicrosoftAzureAiConf-LasVegas-20181105%20(2).pdf)
