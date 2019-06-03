@@ -9,4 +9,4 @@ Alex Iankoulski is a Principal Software Architect for Data Science and Analytics
 
 Here are links to his presentation material:
 
-- [Depend on Docker – Get IT done with Docker on Azure](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/DependOnDocker-MicrosoftAzureAiConf-LasVegas-20181105%20(1).pdf)
+
