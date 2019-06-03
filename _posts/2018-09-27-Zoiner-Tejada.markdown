@@ -9,5 +9,4 @@ Zoiner Tejada (zoinertejada@solliance.net) is CEO and Architect at Solliance, pr
 
 Here are links to his presentation material:
 
-- [Becoming an AI Developer](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Becoming%20an%20AI%20Developer.pptx)
-- [Custom AI in Azure](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Custom%20AI%20in%20Azure.pptx)
+
