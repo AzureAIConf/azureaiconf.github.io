@@ -9,7 +9,4 @@ Alain "Lino" Tadros is a Software Solution Architect Partner at Solliance Inc. P
 
 Here are links to his presentation material:
 
-- [Introduction to Azure Databricks for the Azure Developer](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/IntroToDataBricks.pptx)
-- [Introduction to Azure IoT](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/IntroToAzureIoT.pptx)
-- [Microsoft Azure Machine Learning Starting Guide for Developers](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/IntroToMachineLearning.pptx)
 
