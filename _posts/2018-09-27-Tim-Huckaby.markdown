@@ -11,4 +11,3 @@ Mr. Huckaby?s expertise encompasses Emerging Experiences as Touch, Gesture, Voic
 
 Here are links to his presentation material:
 
-- [The Vision of Computer Vision: The Bold Promise of Teaching Computers to See](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/AI%20Keynote%20Huckaby.pptx)
