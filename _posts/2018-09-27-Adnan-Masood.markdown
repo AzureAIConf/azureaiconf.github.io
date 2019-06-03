@@ -9,7 +9,4 @@ Dr. Adnan Masood is an Artificial Intelligence and Machine Learning researcher, 
 
 Here are links to his presentation material:
 
-- [A Lap around Algorithmic bias, and AI’s Ethical Imperative](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/A%20Lap%20around%20Algorithmic%20bias%2C%20and%20AIs%20Ethical%20Imperative%20-%20DevIntersection%202018.pdf)
-- [Democratization of AI with Microsoft Cognitive Services](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Democratization%20of%20AI%20with%20Microsoft%20Cognitive%20Services%20-%20DevIntersection%202018.pdf)
-- [Operationalizing AI - Portable ML Model Sharing across Enterprise](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Operationalizing%20AI%20-%20Portable%20ML%20Model%20Sharing%20across%20Enterprise.pdf)
-- [Can you see me now? Computer Vision, you can do it](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202018/Computer%20Vision%20with%20OpenCV%20-%20DevInterSection2018.pdf)
+
