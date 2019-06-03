@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[Azure AI Conference]() is proud to provide the following speaker material from its 2018 conference held in Las Vegas, NV Dec 3 - 6th, 2018
+[Azure AI Conference]() is proud to provide the following speaker material from its 2019 conference held in Orlando, FL, June 11 - 13th, 2019.
