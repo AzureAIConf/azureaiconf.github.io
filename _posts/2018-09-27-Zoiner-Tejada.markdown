@@ -10,4 +10,4 @@ Zoiner Tejada (zoinertejada@solliance.net) is CEO and Architect at Solliance, pr
 Here are links to his presentation material:
 
 - [CRASH COURSE IN DATA SCIENCE FOR THE DEVELOPER](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Crash%20course%20in%20data%20science%20for%20the%20developer.pptx)
-- [GOING FROM DEVELOPER TO AI ROCKSTAR]https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Going%20from%20Developer%20to%20AI%20Rockstar.pptx)
+- [GOING FROM DEVELOPER TO AI ROCKSTAR] https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Going%20from%20Developer%20to%20AI%20Rockstar.pptx)
