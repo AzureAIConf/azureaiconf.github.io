@@ -9,4 +9,5 @@ Alain "Lino" Tadros is a Software Solution Architect Partner at Solliance Inc. P
 
 Here are links to his presentation material:
 
-
+- [AI & MACHINE LEARNING WITH AZURE](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/AI%20and%20MachineLearning%20with%20Azure.pptx)
+- [USING DATABRICKS FOR AI AND MACHINE LEARNING](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Using%20Databricks%20for%20AI%20and%20Machine%20Learning.pptx)
