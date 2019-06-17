@@ -9,4 +9,8 @@ Dr. Adnan Masood is an Artificial Intelligence and Machine Learning researcher, 
 
 Here are links to his presentation material:
 
+Here are links to his presentation material:
 
+- [DRIVE INTELLIGENCE FROM TEXT COMPREHENSION IN ENTERPRISE APPS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Drive%20Intelligence%20from%20Text%20Comprehension%20in%20Enterprise%20Apps%20-%20Adnan%20Masood.pdf)
+
+- [PYTORCH FOR .NET DEVELOPERS WITH AZURE MACHINE LEARNING](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/PyTorch%20for%20.NET%20Developers%20with%20Azure%20Machine%20Learning%20-%20Adnan%20Masood.pdf)
