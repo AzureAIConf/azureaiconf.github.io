@@ -9,3 +9,5 @@ Dan is the Chief Infrastructure Architect for Solliance. He leads the DevOps and
 
 Here are links to his presentation material:
 
+- [GETTING STARTED WITH DEVOPS ON AZURE](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Getting%20Started%20with%20DevOps%20in%20Azure.pptx)
+- [RUNNING AKS IN PROD](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Running%20AKS%20in%20Prod.pptx)
