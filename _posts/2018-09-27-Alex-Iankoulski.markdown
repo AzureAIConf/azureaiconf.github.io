@@ -9,4 +9,6 @@ Alex Iankoulski is a Principal Software Architect for Data Science and Analytics
 
 Here are links to his presentation material:
 
-
+- [DEPEND ON DOCKER FOR DEEP LEARNING ON AZURE]( https://drive.google.com/open?id=1V4oByb37jtN4JuLnNjAwsMfFHGnFF0A5)
+- [DEPEND ON DOCKER FOR SCALE ON AZURE](https://drive.google.com/open?id=1Zu10hhsf5_I3xJamdrMjpNf3q0P0uM60)
+- [DEPEND ON DOCKER FOR WINDOWS CONTAINERS ON AZURE]( https://drive.google.com/file/d/15QMHgjtsLoz4F-VoOxFcH3TyXld5Z6as/view?usp=sharing)
